@@ -1,0 +1,6 @@
+{
+  "name": "Restaurante Dragón Rojo",
+  "description": "Aplicación web y CMS administrable para el Restaurante Dragón Rojo con menú categorizado, mapa de ubicación, servicios y gestión en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
